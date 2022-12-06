@@ -6,7 +6,7 @@
 
 [Live Preview](https://html-css-seo-master.netlify.app/)
 
-![SEO Master](/assets/1-seo-master.png "SEO Master")
+<img src="./assets/1-seo-master.png" height="200" height="200" />
 
 ### HTML-CSS (Crypto Market)
 
@@ -14,7 +14,7 @@
 
 [Live Preview](https://html-css-crypto-market.netlify.app)
 
-![Crypto](/assets/2-crypto-market.png "Crypto")
+<img src="./assets/2-crypto-market.png" height="200" height="200" />
 
 ### HTML-CSS (Fashion Hub)
 
@@ -22,7 +22,7 @@
 
 [Live Preview](https://html-css-fashion-hub.netlify.app)
 
-![Fashion Hub](/assets/3-fashion-hub.png "Fashion Hub")
+<img src="./assets/3-fashion-hub.png" height="200" height="200" />
 
 ### HTML-CSS (Calm)
 
@@ -30,7 +30,7 @@
 
 [Live Preview](https://html-css-calm.netlify.app/)
 
-![Calm](/assets/4-calm.png "Calm")
+<img src="./assets/4-calm.png" height="200" height="200" />
 
 ### HTML-CSS (Medifine)
 
@@ -38,7 +38,7 @@
 
 [Live Preview](https://html-css-medifine.netlify.app/)
 
-![Medifine](/assets/5-medifine.png "Medifine")
+<img src="./assets/5-medifine.png" height="200" height="200" />
 
 ### HTML-CSS (Justice)
 
@@ -46,7 +46,7 @@
 
 [Live Preview](https://html-css-justice.netlify.app/)
 
-![Justice](/assets/6-justice.png "Justice")
+<img src="./assets/6-justice.png" height="200" height="200" />
 
 ### HTML-CSS (VS Code Website Clone)
 
