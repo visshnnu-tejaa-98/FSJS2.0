@@ -59,3 +59,20 @@
 
 [Live Preview](https://tailwind-vscode-clone.netlify.app/)
 
+### HTML-CSS-TAILWIND (Credit Card)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-tailwind-credit-card)
+
+[Live Preview](https://html-css-tailwind-credit-card.netlify.app/)
+
+### HTML-CSS-TAILWIND (Hosting Site)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-tailwind-hosting-site)
+
+[Live Preview](https://html-css-tailwind-hosting-cite.netlify.app/)
+
+### HTML-CSS (Hosting Site)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-gaming-landing-page)
+
+[Live Preview](https://html-css-gaming-landing-page.netlify.app/)
