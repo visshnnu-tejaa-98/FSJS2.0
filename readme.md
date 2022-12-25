@@ -76,3 +76,9 @@
 [View Code](https://github.com/visshnnu-tejaa-98/html-css-gaming-landing-page)
 
 [Live Preview](https://html-css-gaming-landing-page.netlify.app/)
+
+### HTML-CSS (Real-Estate Landing Page)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-realestate-landing-page)
+
+[Live Preview](https://html-css-realestate-landing-page.netlify.app/)
