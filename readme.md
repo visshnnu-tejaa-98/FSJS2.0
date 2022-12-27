@@ -82,3 +82,9 @@
 [View Code](https://github.com/visshnnu-tejaa-98/html-css-realestate-landing-page)
 
 [Live Preview](https://html-css-realestate-landing-page.netlify.app/)
+
+### HTML-CSS (Beats Landing Page)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-beats-landing-page)
+
+[Live Preview](https://html-css-beats-landing-page.netlify.app/)
