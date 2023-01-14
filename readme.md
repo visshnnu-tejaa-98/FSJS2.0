@@ -88,7 +88,11 @@
 
 [Live Preview](https://html-css-beats-landing-page.netlify.app/)
 
+### HTML-CSS (Data Analitics Landing Page)
 
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-data-analitics-landing-page)
+
+[Live Preview](https://html-css-beats-landing-page.netlify.app/)
 
 ### Javascript Questions
 [View Code](https://github.com/visshnnu-tejaa-98/FSJS2.0/tree/main/JAVASCRIPT%20Questions)
