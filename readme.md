@@ -1,5 +1,10 @@
 # FSJS2.0 Assessments
 
+## Articles
+1. [HTML Elements](https://visshnnu.hashnode.dev/basic-html-elements)
+2. [CSS Selectors](https://visshnnu.hashnode.dev/css-selectors)
+
+
 ### HTML-CSS (SEO Master)
 
 [View Code](https://github.com/visshnnu-tejaa-98/HTML-CSS-seo-master)
@@ -54,12 +59,32 @@
 
 [Live Preview](https://tailwind-vscode-clone.netlify.app/)
 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="/assets/7-vs-code.mp4" type="video/mp4">
-    <source src="/assets/7-vs-code.mp4" type="video/ogg">
-    <source src="/assets/7-vs-code.mp4" type="video/webm">
-  </video>
-</figure>
-<!-- blank line -->
+### HTML-CSS-TAILWIND (Credit Card)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-tailwind-credit-card)
+
+[Live Preview](https://html-css-tailwind-credit-card.netlify.app/)
+
+### HTML-CSS-TAILWIND (Hosting Site)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-tailwind-hosting-site)
+
+[Live Preview](https://html-css-tailwind-hosting-cite.netlify.app/)
+
+### HTML-CSS (Hosting Site)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-gaming-landing-page)
+
+[Live Preview](https://html-css-gaming-landing-page.netlify.app/)
+
+### HTML-CSS (Real-Estate Landing Page)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-realestate-landing-page)
+
+[Live Preview](https://html-css-realestate-landing-page.netlify.app/)
+
+### HTML-CSS (Beats Landing Page)
+
+[View Code](https://github.com/visshnnu-tejaa-98/html-css-beats-landing-page)
+
+[Live Preview](https://html-css-beats-landing-page.netlify.app/)
