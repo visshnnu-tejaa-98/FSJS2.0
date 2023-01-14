@@ -4,9 +4,6 @@
 1. [HTML Elements](https://visshnnu.hashnode.dev/basic-html-elements)
 2. [CSS Selectors](https://visshnnu.hashnode.dev/css-selectors)
 
-### Javascript Questions
-[View Code](https://github.com/visshnnu-tejaa-98/FSJS2.0/tree/main/JAVASCRIPT%20Questions)
-
 ### HTML-CSS (SEO Master)
 
 [View Code](https://github.com/visshnnu-tejaa-98/HTML-CSS-seo-master)
@@ -90,3 +87,8 @@
 [View Code](https://github.com/visshnnu-tejaa-98/html-css-beats-landing-page)
 
 [Live Preview](https://html-css-beats-landing-page.netlify.app/)
+
+
+
+### Javascript Questions
+[View Code](https://github.com/visshnnu-tejaa-98/FSJS2.0/tree/main/JAVASCRIPT%20Questions)
