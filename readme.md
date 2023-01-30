@@ -1,6 +1,7 @@
 # FSJS2.0 Assessments
 
 ## Articles
+
 1. [HTML Elements](https://visshnnu.hashnode.dev/basic-html-elements)
 2. [CSS Selectors](https://visshnnu.hashnode.dev/css-selectors)
 
@@ -95,4 +96,9 @@
 [Live Preview](https://html-css-data-analitics-landing-page.netlify.app/)
 
 ### Javascript Questions
+
+[View Code](https://github.com/visshnnu-tejaa-98/FSJS2.0/tree/main/JAVASCRIPT%20Questions)
+
+### DOM Manipulation
+
 [View Code](https://github.com/visshnnu-tejaa-98/FSJS2.0/tree/main/JAVASCRIPT%20Questions)
