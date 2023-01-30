@@ -101,4 +101,4 @@
 
 ### DOM Manipulation
 
-[View Code](https://github.com/visshnnu-tejaa-98/FSJS2.0/tree/main/JAVASCRIPT%20Questions)
+[View Code](https://github.com/visshnnu-tejaa-98/FSJS2.0/blob/main/DOM%20Questions)
