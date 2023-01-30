@@ -15,7 +15,7 @@ logo.setAttribute("src", "./assets/ineuron.logo.png");
 
 ## Task 2
 
-Change the price to #10
+Change the price to $10
 
 ![Alt text](./assets/DOM%20P3%20SS-2.png)
 
