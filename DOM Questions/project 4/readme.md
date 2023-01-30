@@ -9,17 +9,18 @@ Change the colors for the cards as shown in the output
 Code:
 
 ```javascript
-let enterName = document.querySelector(".enterName");
-let enterMail = document.querySelector(".enterMail");
-let enterMessage = document.querySelector(".enterMessage");
-enterName.setAttribute("placeholder", "FSJS 2.0");
-enterMail.setAttribute("placeholder", "fsjs@ineuron.ai");
-enterMessage.setAttribute("placeholder", "Hello World");
+let cardFooter1 = document.querySelector(".clash-card__unit-stats--barbarian");
+let cardFooter2 = document.querySelector(".clash-card__unit-stats--archer");
+let cardFooter3 = document.querySelector(".clash-card__unit-stats--giant");
+let cardFooter4 = document.querySelector(".clash-card__unit-stats--goblin");
+let cardFooter5 = document.querySelector(".clash-card__unit-stats--wizard");
+let stats = document.querySelectorAll(".stat");
 
-let userName = document.querySelector(".userName");
-let userMail = document.querySelector(".userEmail");
-let userMessage = document.querySelector(".userMessage");
-userName.setAttribute("placeholder", "FSJS 2.0");
-userMail.setAttribute("placeholder", "fsjs@ineuron.ai");
-userMessage.setAttribute("placeholder", "Hello World");
+cardFooter1.style.backgroundColor = "#EC9B3B";
+cardFooter2.style.backgroundColor = "#EE5487";
+cardFooter3.style.backgroundColor = "#F6901A";
+cardFooter4.style.backgroundColor = "#82BB30";
+cardFooter5.style.backgroundColor = "#4FACFF";
+stats = [...stats];
+stats.map((item) => (item.style.color = "#FCFFFF"));
 ```
